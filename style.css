@@ -1,0 +1,18 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background: url('../img/background.jpg') no-repeat center center/cover;
+    color: white;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
